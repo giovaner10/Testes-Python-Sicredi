@@ -1,0 +1,35 @@
+# Arquivos de byte compilados
+__pycache__/
+*.pyc
+
+# Ambientes virtuais
+venv/
+env/
+
+# Dependências instaladas
+lib/
+libs/
+*.egg-info/
+dist/
+build/
+
+# Arquivos gerados por ferramentas de teste
+htmlcov/
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+.pytest_cache/
+
+# Arquivos de log e saída
+*.log
+*.pot
+*.py~ 
+*.swp
+*~
+
+# Arquivos de configuração específicos de IDEs
+.idea/
+.vscode/
+*.sublime*
+*.vim
